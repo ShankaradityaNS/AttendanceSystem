@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "957501692049",
+    "firebase_url": "https://defhack-e19de.firebaseio.com",
+    "project_id": "defhack-e19de",
+    "storage_bucket": "defhack-e19de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957501692049:android:2a0936e4b08013a0d34730",
+        "android_client_info": {
+          "package_name": "com.mine.realtime_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957501692049-929i97ru5klagdahqaa8krsluqn2jlnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2y3TLBDBScv1H_UQKMVNxmu2i01PNwm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957501692049-929i97ru5klagdahqaa8krsluqn2jlnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
